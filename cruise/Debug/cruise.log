@@ -1,0 +1,20 @@
+﻿生成启动时间为 2015/3/6 星期五 13:02:40。
+     1>项目“H:\cruiseandKinect沈少波陈晓刘泽翔\cruise\cruise\cruise.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\cruise.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+       Manifest:
+         所有输出均为最新。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\cruise.unsuccessfulbuild”。
+         正在对“Debug\cruise.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“H:\cruiseandKinect沈少波陈晓刘泽翔\cruise\cruise\cruise.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.95
